@@ -21,7 +21,7 @@
     padding: 8px;
 }
 .register-form input:focus {
-    border-color: rgba(255, 0, 0, 0.633);
+    border-color: rgba(255, 0, 0, 0.578);
 }
 
 @media (max-width: 700px) {
